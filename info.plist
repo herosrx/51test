@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://www.xxxxx.com/ipa/51talk.ipa</string>
+                    <string>hhttp://testjenkins.51talk.com/view/app_iphone/job/51talk_iOS_4.7.5_release/lastSuccessfulBuild/artifact/myapp/51talk/51talk.ipa</string>
                 </dict>
                 <dict>  
                     <key>kind</key>  
                     <string>display-image</string>  
                     <key>url</key>  
-                    <string>http://www.xxxxx.com/ipa/51talk.png</string>  
+                    <string>http://www.cocoatest.com/ipa/51talk.png</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
                     <string>full-size-image</string>  
                     <key>url</key>  
-                    <string>http://www.xxxxx.com/ipa/51talk.png</string>  
+                    <string>http://www.cocoatest.com/ipa/51talk.png</string>  
                 </dict>  
             </array>
             <key>metadata</key>
